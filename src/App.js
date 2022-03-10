@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          My Bebo
+          Deployed in Docker using Travis CI/CD and AWS Elastic Beanstalk
         </p>
         <a
           className="App-link"
